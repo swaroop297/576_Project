@@ -1,5 +1,4 @@
-# 576_Project
-# Group 24 - NLP Project
+# 576_Project | Group 24 - NLP Project
 
 # Description for the files in the repo
 
