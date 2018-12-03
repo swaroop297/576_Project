@@ -1,7 +1,7 @@
 # 576_Project
-Group 24 - NLP Project
+# Group 24 - NLP Project
 
-File description
+# Description for the files in the repo
 
 jsonCreator.py - Creates JSON objects of the format:
 
